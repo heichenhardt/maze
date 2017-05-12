@@ -1,7 +1,7 @@
 Maze Test
 =========
 
-This coding example will form the basis of your interview with Excelian (should you progress), you should be ready to explain any and all of the choices you have made when writing the solution.
+This coding example will form the basis of your interview with XXX (should you progress), you should be ready to explain any and all of the choices you have made when writing the solution.
 There is no stated time limit but we would not envisage it would take longer than a couple of hours.
 
 The solution must be representative of what you would produce 'on the job', by that we mean it must be clear, maintainable, demonstrably bug-free and tested.
